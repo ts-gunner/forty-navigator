@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: forty-nav-api
+
+server:
+  port: 8000
